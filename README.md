@@ -1,13 +1,13 @@
 # Karshak
 
 ## Vegetables
-Tomato 
-Onion 
-Chillies
+1.Tomato 
+2.Onion 
+3.Chillies
 
 ## Fruits 
-Mango 
-Apple 
-Pomogranate
+* Mango 
+* Apple 
+* Pomogranate
 
 
