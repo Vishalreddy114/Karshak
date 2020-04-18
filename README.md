@@ -1,2 +1,13 @@
 # Karshak
-This repositroy is about my dream job
+
+## Vegetables
+Tomato 
+Onion 
+Chillies
+
+## Fruits 
+Mango 
+Apple 
+Pomogranate
+
+
